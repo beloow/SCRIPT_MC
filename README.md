@@ -18,6 +18,6 @@ Pour un script fonctionnel selectionner **script.sh** sinon **script_beta** pour
 
 **Configuration du script :**
 
-SCREEN="nom du screen"  # nom utilisé pour le screen
-NAME="nom du serveur"  # nom du serveur, uniquement pour l'affichage des messages
-COMMAND="java -jar -Xincgc -Xmx6G server.jar"  # commande de lancement du serveur, -Xmx6G defini la ram.
+- SCREEN="nom du screen"  # nom utilisé pour le screen
+- NAME="nom du serveur"  # nom du serveur, uniquement pour l'affichage des messages
+- COMMAND="java -jar -Xincgc -Xmx6G server.jar"  # commande de lancement du serveur, -Xmx6G defini la ram.
